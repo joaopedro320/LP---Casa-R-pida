@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Obrigado | Casa Rápida</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://casarapida.com.br/obrigado.html">
+<link rel="icon" type="image/png" href="assets/img/logo-icon.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Inter:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/css/style.css">
+<style>
+  .thanks {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 40px 24px;
+    background: var(--cream);
+  }
+  .thanks__card { max-width: 480px; }
+  .thanks__icon {
+    width: 76px; height: 76px;
+    margin: 0 auto 28px;
+    background: var(--gold);
+    display: grid; place-items: center;
+    clip-path: polygon(18% 0, 100% 0, 100% 100%, 0 100%, 0 18%);
+  }
+  .thanks h1 { font-size: 1.8rem; margin-bottom: 14px; }
+  .thanks p { color: var(--ink-soft); margin-bottom: 30px; }
+</style>
+</head>
+<body>
+  <div class="thanks">
+    <div class="thanks__card">
+      <div class="thanks__icon">
+        <svg width="34" height="34" viewBox="0 0 24 24" fill="none"><path d="M4 12L9 17L20 6" stroke="#17140F" stroke-width="3" stroke-linecap="round"/></svg>
+      </div>
+      <h1>Recebemos seus dados!</h1>
+      <p>Obrigado por entrar em contato com a Casa Rápida. Você vai ser redirecionado(a) para o WhatsApp em instantes para continuarmos a conversa por lá.</p>
+      <a href="https://wa.me/5565996122670?text=Ol%C3%A1%2C%20acabei%20de%20preencher%20o%20formul%C3%A1rio%20no%20site.%20Aguardo%20mais%20informa%C3%A7%C3%B5es." class="btn btn-primary">Ir para o WhatsApp agora</a>
+    </div>
+  </div>
+  <script>
+    setTimeout(function () {
+      window.location.href = "https://wa.me/5565996122670?text=Ol%C3%A1%2C%20acabei%20de%20preencher%20o%20formul%C3%A1rio%20no%20site.%20Aguardo%20mais%20informa%C3%A7%C3%B5es.";
+    }, 2500);
+  </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "Casa Rápida",
+  "short_name": "Casa Rápida",
+  "description": "Instalação de porcelanato, lastras, pedras naturais e revestimentos em Tangará da Serra/MT.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F2EA",
+  "theme_color": "#B0863C",
+  "icons": [
+    {
+      "src": "assets/img/logo-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
