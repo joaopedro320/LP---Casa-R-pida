@@ -7,7 +7,7 @@ Fonte: briefing (Google Forms) respondido por Rafael Andrade Souza em 26/09/2026
 ## Contexto do cliente
 
 - Cidade: Tangará da Serra/MT (~120 mil habitantes), no mercado há 10 anos
-- Diferencial real: produção própria com entrega mais rápida (obras em ~1,5 mês vs. 3–4 meses da concorrência) e acabamento refinado (recortes em cantos, portas e rodapés)
+- Diferencial real: equipe própria de instalação (sem terceirizar) com entrega mais rápida (obras em ~1,5 mês vs. 3–4 meses da concorrência) e acabamento refinado (recortes em cantos, portas e rodapés)
 - Público-alvo: 30–65 anos, advogados, médicos, empresários, fazendeiros (inclusive fazendas de Cuiabá)
 - Posicionamento pedido: moderno e inovador, ousado (foge do padrão), técnico/especialista
 - Horário de atendimento: 07h às 17h, domingo a sexta
